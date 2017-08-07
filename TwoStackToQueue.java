@@ -4,7 +4,7 @@ import java.util.Stack;
  * Author: tianyi
  * Time: 2017/8/7
  * Question:用两个栈来实现一个队列，完成队列的Push和Pop操作。 队列中的元素为int类型。
- * Source:剑指Offer
+ * Source: 剑指Offer
  */
 public class TwoStackToQueue {
     Stack<Integer> stack1 = new Stack<Integer>();
